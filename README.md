@@ -22,7 +22,7 @@
 
 ### 🐳 About me
 
-- :telescope: I'm digital marketer - project manager - programmer keen on using data science to drive business impact.
+- :telescope: I'm a digital marketer - project manager - programmer keen on using data science to drive business impact.
 
 ---
 
