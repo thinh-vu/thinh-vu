@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
+
 ### 🐳 About me
 
 - :telescope: I'm digital marketer - project manager - programmer keen on using data science to drive business impact.
@@ -36,7 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 ### :fire: My Stats :
 <div align="center">
@@ -48,6 +47,5 @@
 
 </div>
 
----
 ### :writing_hand: Blog Posts :
 Visit my blog at: [Thinh Vu Blog](https://thinhvu.com)
