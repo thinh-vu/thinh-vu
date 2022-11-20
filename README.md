@@ -16,12 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
-</div>
-
 ---
-
 ### 🐳 About me
 
 - :telescope: I'm digital marketer - project manager - programmer keen on using data science to drive business impact.
