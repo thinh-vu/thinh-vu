@@ -39,7 +39,7 @@
 
 ### :fire: My Stats :
 <div align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thinh-vu&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thinh-vu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Thinh Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinh-vu&theme=vision-friendly-dark)](https://github.com/thinh-vu/github-readme-stats)
 
