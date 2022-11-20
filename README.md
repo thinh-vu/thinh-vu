@@ -53,10 +53,11 @@
 
 ---
 
-### :writing_hand: Blog Posts in Vietnamese:
+### :writing_hand: My blog - Lifelong learning journey
+
 - Visit my home @ [Thinh Vu Blog](https://thinhvu.com).
-- My Python course on Data Analysis & Marketing for "newbies": [here](https://thinhvu.com/khoa-hoc-python-course/)
-- Here are the most popular post you might interest:
+- Here are the most popular content you might interest:
+  - **Python course** on Data Analysis & Marketing for "newbies": [here](https://thinhvu.com/khoa-hoc-python-course?utm_source=github&utm_medium=readme-home)
   - **Tutorials**
     1. [The complete Google Colab 101 tutorial](https://thinhvu.com/2021/07/29/huong-dan-su-dung-google-colab-tutorial-101?utm_source=github&utm_medium=readme-home)
     2. [vnstock - Load Vietnam stock market data to your data pipeline with Python via API](https://thinhvu.com/2022/09/22/vnstock-api-tai-du-lieu-chung-khoan-python?utm_source=github&utm_medium=readme-home)
