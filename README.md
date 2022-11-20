@@ -52,7 +52,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinh-vu&layout=compact&theme=vision-friendly-dark)](https://github.com/thinh-vu/github-readme-stats)
 
 </div>
----
 
+---
 ### :writing_hand: Blog Posts :
 Visit my blog at: [Thinh Vu Blog](https://thinhvu.com)
