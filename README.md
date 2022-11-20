@@ -55,7 +55,7 @@
 
 ### :writing_hand: Blog Posts in Vietnamese:
 - Visit my home @ [Thinh Vu Blog](https://thinhvu.com).
-
+- My Python course on Data Analysis & Marketing for "newbies": [here](https://thinhvu.com/khoa-hoc-python-course/)
 - Here are the most popular post you might interest:
   - **Tutorials**
     1. [The complete Google Colab 101 tutorial](https://thinhvu.com/2021/07/29/huong-dan-su-dung-google-colab-tutorial-101?utm_source=github&utm_medium=readme-home)
