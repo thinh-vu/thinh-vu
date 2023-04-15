@@ -59,12 +59,12 @@
 - Here are the most popular content you might interest:
   - **Python course** on Data Analysis & Marketing for "newbies": [here](https://thinhvu.com/khoa-hoc-python-course?utm_source=github&utm_medium=readme-home)
   - **Tutorials**
-    1. [The complete guide to start using ChatGPT in Vietnam](https://thinhvu.com/2023/01/26/huong-dan-su-dung-chatgpt-day-du/)
+    1. [Getting Started with ChatGPT in Vietnam: A Complete Guide](https://thinhvu.com/2023/01/26/huong-dan-su-dung-chatgpt-day-du/)
     2. [Online course: ChatGPT & its applications (freemium membership)](https://thinhvu.com/2023/02/14/khoa-hoc-chatgpt-ung-dung-mien-phi-vietnam/)
     3. [The complete Google Colab 101 tutorial](https://thinhvu.com/2021/07/29/huong-dan-su-dung-google-colab-tutorial-101?utm_source=github&utm_medium=readme-home)
     4. [vnstock - Load Vietnam stock market data to your data pipeline with Python via API](https://thinhvu.com/2022/09/22/vnstock-api-tai-du-lieu-chung-khoan-python?utm_source=github&utm_medium=readme-home)
     5. [10 tips of self-studying Data Analysis with Python](https://thinhvu.com/2022/10/09/kinh-nghiem-tu-hoc-data-analysis-python?utm_source=github&utm_medium=readme-home)
-    6. [The complete guide using Obsidian](https://thinhvu.com/2023/01/29/huong-dan-su-dung-obsidian-toan-tap/)
+    6. [The Complete Guide to Using Obsidian](https://thinhvu.com/2023/01/29/huong-dan-su-dung-obsidian-toan-tap/)
     7. [Update Facebook Ads reports automatically & free with Google Sheets and Apps Script](https://thinhvu.com/2021/10/16/bao-cao-facebook-ads-tu-dong-google-sheets?utm_source=github&utm_medium=readme-home)
     8. [Set up a Linux server on Oracle Cloud for automated tasks & python scripts](https://thinhvu.com/2021/06/26/thiet-lap-linux-server-chay-python-tu-dong-voi-oracle-cloud?utm_source=github&utm_medium=readme-home)
     9. [Read & Export Google Sheets data with Python & Jupyter Notebook](https://thinhvu.com/2021/05/27/doc-va-xuat-du-lieu-google-sheets-voi-python?utm_source=github&utm_medium=readme-home)
