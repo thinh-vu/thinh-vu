@@ -53,11 +53,11 @@
 
 ---
 ### :writing_hand: Thinh's Digital Garden - 🌱🪴🌻 Plant.Grow.Flourish my thoughts
-The Gateway to My Mind @ [thinh-vu.github.io](https://thinh-vu.github.io/) | Built with Jekyll, Github & Obsidian
+The Gateway to My Mind @ [thinh-vu.github.io](https://thinh-vu.github.io?source=github&medium=intro) | Built with Jekyll, Github & Obsidian
 
 ### :writing_hand: Thinh Vu Blog - Lifelong learning journey
 
-- Visit my home @ [Thinh Vu Blog](https://thinhvu.com).
+- Visit my home @ [Thinh Vu Blog](https://thinhvu.com?source=github&medium=intro).
 - Here are the most popular content you might interest:
   - **Python course** on Data Analysis & Marketing for "newbies": [here](https://thinhvu.com/khoa-hoc-python-course?utm_source=github&utm_medium=readme-home)
   - **Tutorials**
