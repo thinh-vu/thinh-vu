@@ -52,6 +52,8 @@
 </div>
 
 ---
+### :writing_hand: Thinh's Digital Garden - 🌱🪴🌻 Plant.Grow.Flourish my thoughts
+The Gateway to My Mind @ [thinh-vu.github.io](https://thinh-vu.github.io/)
 
 ### :writing_hand: My blog - Lifelong learning journey
 
