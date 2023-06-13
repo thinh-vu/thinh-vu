@@ -53,7 +53,7 @@
 
 ---
 ### :writing_hand: Thinh's Digital Garden - 🌱🪴🌻 Plant.Grow.Flourish my thoughts
-The Gateway to My Mind @ [thinh-vu.github.io](https://thinh-vu.github.io?source=github&medium=intro) | Built with Jekyll, Github & Obsidian
+The Gateway to My Mind @ [thinh-vu.github.io](https://thinhvu.netlify.app?source=github&medium=intro) | Built with Jekyll, Github & Obsidian
 
 ### :writing_hand: Thinh Vu Blog - Lifelong learning journey
 
