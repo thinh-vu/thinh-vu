@@ -57,8 +57,8 @@
 
 a. **Focused projects**
 * [Thinh Vu Blog](https://thinhvu.com?source=github&medium=intro) - My lifelong learning journey
-* [Vnstock](http://vnstock.site?source=github&medium=intro): Empowering Smart Investment Analysis in the Vietnam Stock Market with vnstock.
-* [LEarn Anything](http://learn-anything.vn/) : Ignite the passion for learning and exploration with LEarn Anything!
+* [Vnstock](http://vnstock.site?source=github&medium=intro) - Empowering Smart Investment Analysis in the Vietnam Stock Market with vnstock.
+* [LEarn Anything](http://learn-anything.vn/) - Ignite the passion for learning and exploration with LEarn Anything!
 
 b. **Popular blog posts**
   1. [The complete Google Colab 101 tutorial](https://thinhvu.com/2021/07/29/huong-dan-su-dung-google-colab-tutorial-101?utm_source=github&utm_medium=readme-home)
