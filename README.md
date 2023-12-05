@@ -26,7 +26,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🔨 Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;    
@@ -40,7 +40,7 @@
 </div>
 
 
-### :fire: My Stats :
+### 🔥 My Stats :
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thinh-vu&theme=dark&hide_border=true)](https://git.io/streak-stats)
@@ -53,7 +53,7 @@
 
 ---
 
-### :writing_hand: What I did
+### ♥️ What I love doing
 
 a. **Focused projects**
 * [Thinh Vu Blog](https://thinhvu.com?source=github&medium=intro) - My lifelong learning journey
