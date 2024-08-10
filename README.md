@@ -22,7 +22,7 @@
 
 ### 🐳 About me
 
-- :telescope: Crafting Vietnam's Financial Landscape with vnstock — Open Source, Quality Code, and a Data-Driven Commitment to Automated Excellence.
+- :telescope: Simplifying Stock Analysis and Trading in Vietnam — The Leading Open Source, Automated Solution with Vnstock.
 
 ---
 
