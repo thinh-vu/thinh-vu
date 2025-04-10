@@ -1,71 +1,95 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# <div align="center">👋 Hello, I'm Thinh Vu!</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Coding GIF"/>
 </div>
 
-<div id="badges" align="center">
+<div align="center"><i>Open Source Developer | Investment Technology Pioneer</i></div>
+
+## 💫 My Story in 30 Seconds
+
+From launching my career as a Data Analyst at Vietnam's leading e-commerce platform to becoming the creator of [Vnstock](http://vnstock.site) with 350K+ downloads, my journey has been driven by a simple philosophy: **technology should liberate, not complicate**.
+
+I've spent a decade transforming complex data into clarity and start building tools that help people make smarter investment decisions in recent years. My work bridges the gap between technical innovation and practical, everyday value—proving that with the right approach, anyone can leverage technology to work smarter, not harder.
+
+> [!TIP]
+> "Technology isn't distant—with the right approach, anyone can harness it for a smarter, freer life."
+
+## 🚀 What I Build & Why It Matters
+
+### 🔍 For Investors & Analysts
+- **[Vnstock](http://vnstock.site)**: My Python library that's revolutionizing stock analysis in Vietnam, automating data collection and analysis that previously took hours of manual work
+- **Impact**: Empowered thousands of investors to make data-driven decisions with just a few lines of code
+- **Community**: Fostered a growing ecosystem of financial technology enthusiasts in Vietnam
+
+### 👨‍🏫 For Learners & Explorers
+- **[Learn Anything](https://www.youtube.com/@learn_anything_az)**: A YouTube channel and [Blog](http://learn-anything.vn/) where I break down complex technical concepts into approachable tutorials
+- **Courses & Mentorship**: Guided professionals from traditional tools to Python, from specialists to director-level executives
+
+## 💼 Professional Impact
+
+I've mentored and empowered diverse professionals across the financial ecosystem:
+- **Financial Institutions**: Specialists at top-tier brokerage firms and credit scoring companies
+- **Investment Funds**: Analysts making critical portfolio decisions
+- **Academia**: Lecturers and Ph.D. graduates at leading economics universities
+
+My approach isn't just about teaching code—it's about inspiring a mindset shift toward automation, creative problem-solving, and continuous learning.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJS" title="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgresSQL" title="PostgresSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thinh-vu&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Thinh's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinh-vu&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
   <a href="https://www.linkedin.com/in/thinh-vu">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@learn_anything_az">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://www.messenger.com/t/mr.thinh.ueh">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger Badge"/>
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"/>
   </a>
-  <a href="https://www.youtube.com/@learn_anything_az?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="mailto:support@vnstocks.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
-<h1 align="center">
-  Welcome to Thinh's space
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</br>
 
+I believe in the power of community and shared knowledge. Whether you're:
+- A **fellow developer** looking to collaborate on open-source projects
+- An **investor or analyst** interested in financial technology
+- A **beginner** taking your first steps in coding or data analysis
+- A **professional** seeking to automate workflows and increase efficiency
 
-### 🐳 About me
+**I'd love to connect!** Reach out through any of the platforms linked above.
 
-- :telescope: Simplifying Stock Analysis and Trading in Vietnam — The Leading Open Source, Automated Solution with Vnstock.
+## 🔮 Current Projects
+
+- 🚀 Expanding Vnstock with advanced analytical features
+- 📊 Building data visualization tools for financial market analysis
+- 🧠 Exploring applications of AI in investment decision-making
+- 📚 Creating accessible learning resources for data science in finance
 
 ---
 
-### 🔨 Languages and Tools :
-
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgresSQL"  alt="PostgresSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <i>Thank you for visiting my GitHub profile! Let's build a future where technology empowers everyone.</i>
 </div>
-
-
-### 🔥 My Stats :
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thinh-vu&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Thinh Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinh-vu&theme=vision-friendly-dark)](https://github.com/thinh-vu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinh-vu&layout=compact&theme=vision-friendly-dark)](https://github.com/thinh-vu/github-readme-stats)
-
-</div>
-
----
-
-### ♥️ What I love doing
-
-a. **Focused projects**
-* [Thinh Vu Blog](https://thinhvu.com?source=github&medium=intro) - My lifelong learning journey
-* [Vnstock](http://vnstock.site?source=github&medium=intro) - Empowering Smart Investment Analysis in the Vietnam Stock Market with vnstock.
-* [LEarn Anything](http://learn-anything.vn/) - Ignite the passion for learning and exploration with LEarn Anything!
-
-b. **Popular blog posts**
-  1. [The complete Google Colab 101 tutorial](https://thinhvu.com/2021/07/29/huong-dan-su-dung-google-colab-tutorial-101?utm_source=github&utm_medium=readme-home)
-  2. [vnstock - Load Vietnam stock market data to your data pipeline with Python via API](https://thinhvu.com/2022/09/22/vnstock-api-tai-du-lieu-chung-khoan-python?utm_source=github&utm_medium=readme-home)
-  3. [10 tips of self-studying Data Analysis with Python](https://thinhvu.com/2022/10/09/kinh-nghiem-tu-hoc-data-analysis-python?utm_source=github&utm_medium=readme-home)
-  4. [The Complete Guide to Using Obsidian](https://thinhvu.com/2023/01/29/huong-dan-su-dung-obsidian-toan-tap/)
-
-c. **Personal stories**
-  1. [Python for Data analysis - Getting Started with Jupyter Notebook, Google Colab, and Rasberry Pi](https://thinhvu.com/2021/02/15/phan-tich-du-lieu-voi-python-google-colab?utm_source=github&utm_medium=readme-home)
-  2.  [How did I fall in love with Python? My personal stories on experiencing data analysis tools](https://thinhvu.com/2021/03/28/toi-den-voi-python-tool-phan-tich-du-lieu?utm_source=github&utm_medium=readme-home)
